@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "37A22C9A-AB6B-47CE-8F92-E0199C6459E3": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "ApartmentsPricer.mlmodel",
+            "path": "com.apple.CoreML/ApartmentsPricer.mlmodel"
+        },
+        "3DB9A9F6-1E46-41FC-A06D-013D0A17C923": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "45DD971F-E97D-4FE7-8A19-723A9836DBBD": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "37A22C9A-AB6B-47CE-8F92-E0199C6459E3"
+}

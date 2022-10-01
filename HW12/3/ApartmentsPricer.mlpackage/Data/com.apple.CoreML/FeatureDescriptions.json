@@ -1,0 +1,27 @@
+{
+  "Outputs" : {
+    "Price" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "Inputs" : {
+    "Latitude" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Area" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Floor" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Longitude" : {
+      "MLFeatureShortDescription" : "--"
+    },
+    "Rooms" : {
+      "MLFeatureShortDescription" : "--"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}

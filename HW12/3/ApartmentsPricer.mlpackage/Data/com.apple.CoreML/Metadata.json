@@ -1,0 +1,9 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "Boosted Tree Regression model.",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "11.5.1"
+  },
+  "MLModelAuthorKey" : "Fox",
+  "MLModelLicenseKey" : "--"
+}

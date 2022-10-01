@@ -1,0 +1,11 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "A machine learning model that has been trained to recognize images. When you give it an image, it responds with a label for that image.",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "10.15.7",
+    "com.apple.createml.app.version" : "1.0",
+    "com.apple.createml.app.tag" : "16019"
+  },
+  "MLModelAuthorKey" : "Fox",
+  "MLModelLicenseKey" : "--"
+}
